@@ -1,3 +1,4 @@
 *.txt
 *.md
-/ .idea
+\idea
+\.idea
