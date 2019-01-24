@@ -1,6 +1,7 @@
-*.txt
 *.md
+*.txt
 \idea\
 \.idea\
+\.idea\*.*
 \venv\
 \.venv\
