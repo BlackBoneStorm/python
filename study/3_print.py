@@ -1,0 +1,5 @@
+name = input("YOUR FUCKING NAME?! ")
+age = input("YOUR WEIRD AGE? ")
+user = input("YOUR COMPUTER PASSWORD? ")
+
+print("YOU HAVE BEEN HACKED, BITCH!!!", "YOUR NAME IS", name, "YOU ARE FUCKING", age, "YEARS OLD, AND YOUR COMPUTER PASSWORD IS", user)
