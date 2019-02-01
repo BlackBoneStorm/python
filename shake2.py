@@ -19,7 +19,7 @@ def arithmetic():
         show_result()
     elif operator == "/":
         result = a / b
-        show_result()
+        show_result()s
     else:
         print("Unknown Operation")
 
